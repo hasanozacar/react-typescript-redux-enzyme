@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Units should render correctly all button 1`] = `ReactWrapper {}`;
+
+exports[`should render correctly <UnitDetail> 1`] = `ReactWrapper {}`;
