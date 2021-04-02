@@ -5,8 +5,9 @@
 </p>
 
 # Age of Empires: The Units
+A demo React project that included react ts,redux,testing.
 
-A demo React project that included react ts,redux,testing
+Heroku deployment [https://react-typescript-redux-enzyme](https://react-typescript-redux-enzyme.herokuapp.com/) 
 ## JS Stack
 
 - React
@@ -15,7 +16,7 @@ A demo React project that included react ts,redux,testing
 - React Router
 - Redux
 - Jest & enzyme
-
+- Heroku
 ### Available Scripts
 
 In the project directory, you can run:
